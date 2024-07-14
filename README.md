@@ -5,7 +5,7 @@ Repo for Module 14 Challenge
 
 ## Overview
 
-This Challenge had us create a web-based, interactive dashboard to visualize the bacterial species (also known as Operational Taxonomic Units, or OTUs) that colonize human navels. The dataset used in this project is from a research study called "The Belly Button Biodiversity Dataset" (https://robdunnlab.com/projects/belly-button-biodiversity/).
+This Challenge had us create a web-based, interactive dashboard to visualize the bacterial species (also known as Operational Taxonomic Units, or OTUs) that colonize human navels. The dataset used in this project is from a research study called "The Belly Button Biodiversity Dataset" (https://robdunnlab.com/projects/belly-button-biodiversity/).  
 
 ## Features
 
@@ -27,6 +27,6 @@ The dashboard also includes a dropdown menu for selecting different individuals'
 
 ## How to Run
 
-Open the `index.html` file in a web browser to view the dashboard.
+Go to https://jslent.github.io/belly-button-challenge/ or open the `index.html` file in a web browser to view the dashboard.
 
 
